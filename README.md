@@ -7,4 +7,4 @@ Project description:
 
 ## Use
 
-Open `index.html` file in the browser.
+Open any `.html` file in the browser.
